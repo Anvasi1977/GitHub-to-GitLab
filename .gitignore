@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and local runtime files
+*.log
+migration_success_log.json
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
