@@ -364,7 +364,7 @@ SKIP_SUCCESSFULLY_PROCESSED_REPOS = True
 A repository is written to the success log only when all required processing steps complete successfully.
 
 If a repository fails during processing, it is not added to the success log and can be retried later.
-```
+
 ## GitHub Actions Synchronization
 
 When enabled, the script creates a workflow file in each GitHub repository:
