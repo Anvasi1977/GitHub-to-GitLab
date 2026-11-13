@@ -1,3 +1,4 @@
+![GitHub to GitLab Sync](./banner.svg)
 # GitHub to GitLab Migration and Synchronization Tool
 
 A Python utility for migrating repositories from GitHub to GitLab and configuring ongoing one-way synchronization from GitHub to GitLab.
