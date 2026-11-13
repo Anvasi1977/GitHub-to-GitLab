@@ -266,7 +266,7 @@ refs/remotes/origin/*
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/GitHub_to_GitLab.git
+git clone https://github.com/Anvasi1977/GitHub_to_GitLab.git
 cd GitHub_to_GitLab
 ```
 
